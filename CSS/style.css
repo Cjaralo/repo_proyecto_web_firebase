@@ -1,0 +1,11 @@
+.carousel-item {
+    max-height: 500px;
+}
+
+.img-fluid {
+    max-height: 250px;
+}
+
+#alto {
+    max-height: 500px;
+}
