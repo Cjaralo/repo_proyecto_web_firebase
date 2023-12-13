@@ -27,10 +27,8 @@
 
 .cmn-btncircle {
     font-size: 16px; 
+   
 	text-transform: uppercase;
-    background-image: url(/ASSET/ICON-LOGO/icons8-slide-up-48\ \(1\).png);
-    background-repeat: no-repeat;
-    background-position: center;
     border: none;
 	font-weight: bold;  
 	letter-spacing: 2px; 
