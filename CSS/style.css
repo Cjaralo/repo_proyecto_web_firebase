@@ -9,3 +9,37 @@
 #alto {
     max-height: 500px;
 }
+
+.img img:hover{ 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+.carousel-item {
+    width: 100%;
+    min-height: 400px;
+    max-height: 700px;
+    
+
+}
+
+
+
+.cmn-btncircle {
+    font-size: 16px; 
+	text-transform: uppercase;
+    background-image: url(/ASSET/ICON-LOGO/icons8-slide-up-48\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+	font-weight: bold;  
+	letter-spacing: 2px; 
+	padding: 18px 30px; 
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	transition: all 300ms ease 0ms;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+	z-index: 99;
+    display: none;
+}
